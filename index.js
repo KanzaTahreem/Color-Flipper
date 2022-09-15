@@ -1,4 +1,3 @@
-
 let simplebtn = document.getElementById('simplebtn')
 let color = document.getElementById('color')
 let hexbtn = document.getElementById('hexbtn')
@@ -14,7 +13,7 @@ simplebtn.addEventListener('click', function(){
 })
 
     // make it more interesting by getting a random number from simple (array)
-    // we can do this by setting up a function that wi generate a random number
+    // we can do this by setting up a function that will generate a random number
 
 function getRandomNumber(){
     return Math.floor(Math.random() * simple.length )
