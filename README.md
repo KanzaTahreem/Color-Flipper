@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://kanzatahreem.github.io/People-Counter/)
+[Live Demo Link](https://kanzatahreem.github.io/Color-Flipper/)
 
 ## Getting Started
 
