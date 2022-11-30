@@ -1,6 +1,6 @@
 # Color Flipper
 
-> A color flipper that will change the color of background when user clicks on the button.
+> An app that changes the background color when user clicks on the button
 
 ## Built With
 
